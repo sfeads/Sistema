@@ -1,0 +1,60 @@
+.awana{
+    position: relative;
+    width: 1226px;
+    height: 620px;
+    top: 1rem;
+    left: 6.8rem;
+
+    background: linear-gradient(180deg, #A5A692 15.71%, #025E73 69.91%, #011F26 99.48%);
+}
+
+.e{
+    background-color: #011F26;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 1rem;
+    color: #BFB78F;
+}
+
+.he{
+    padding-right: 0.5rem;
+    font-size:1.3rem;
+}
+
+.wifi{
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: 1rem;
+    left: 0.2rem;
+}
+
+.tuerquita{
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: 1rem;
+    right: 0.8rem;
+}
+
+.f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.hora{
+    font-size: 6rem;
+    margin: 1rem;
+    color: #ddd9c3;
+}
+
+.fecha{
+    font-size: 2.2rem;
+    color: #ddd9c3;
+}
+
+.carp{
+    background-color: red;
+}
