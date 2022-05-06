@@ -54,7 +54,41 @@
     font-size: 2.2rem;
     color: #ddd9c3;
 }
+.barra{
+    background-color:  #011F26;
 
-.carp{
-    background-color: red;
+    height: 5rem;
+
+    position: relative;
+    top: 18.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home{
+    height: 2.8rem;
+}
+
+.menu{
+    position: relative;
+    bottom: 6.5rem;
+    left: 30.4rem;
+
+}
+
+.men{
+    width: 16rem;
+}
+
+.dc{
+    position: relative;
+    left: 1rem;
+    width: 5.5rem;
+}
+
+.ym{
+    position: relative;
+    right: 0.6rem;
+    width: 6rem;
 }
