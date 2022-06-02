@@ -54,6 +54,7 @@
     font-size: 2.2rem;
     color: #ddd9c3;
 }
+
 .barra{
     background-color:  #011F26;
 
@@ -72,13 +73,16 @@
 
 .menu{
     position: relative;
-    bottom: 6.5rem;
-    left: 30.4rem;
+    bottom: 13.5rem;
+    left: 27.4rem;
+    transition: 3s;
 
+    width: 16rem;
+    display: none;
 }
 
-.men{
-    width: 16rem;
+.activo{
+    display: block;
 }
 
 .dc{
